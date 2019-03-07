@@ -1,0 +1,29 @@
+transmembrane transporter activity	24
+ion binding	19
+oxidoreductase activity	10
+DNA binding	9
+kinase activity	8
+DNA binding transcription factor activity	6
+transferase activity, transferring acyl groups	5
+nuclease activity	4
+isomerase activity	4
+ATPase activity	3
+lyase activity	3
+nucleotidyltransferase activity	3
+obsolete signal transducer activity	3
+phosphatase activity	2
+transcription factor activity, protein binding	2
+enzyme binding	2
+hydrolase activity, acting on carbon-nitrogen	2
+RNA binding	2
+transferase activity, transferring glycosyl groups	2
+enzyme regulator activity	1
+methyltransferase activity	1
+peptidase activity	1
+protein transporter activity	1
+hydrolase activity, acting on glycosyl bonds	1
+ligase activity	1
+protein binding, bridging	1
+mRNA binding	1
+transferase activity, transferring alkyl or aryl	1
+unfolded protein binding	1
