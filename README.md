@@ -1,6 +1,8 @@
-**A set of small R scripts helpful in various bioinformatics projects, e.g. in analyses of differential gene expression, gene ontology (GO) annotation, etc.**
+A set of small R scripts helpful in various bioinformatics projects, e.g. in analyses of differential gene expression, gene ontology (GO) annotation, etc.
 
-### Draw GO donut pie chart ###
+---
+
+#### Draw GO donut pie chart ####
 Input file format:
 ```text
 GO_term1  20
@@ -20,3 +22,5 @@ or
 
 Result:
 ![Image of presence/absence matrix](https://raw.githubusercontent.com/jakalssj3/R/master/draw-GO-donut-piechart/molecular_function.txt-GO_chart.png)
+
+---
