@@ -36,7 +36,8 @@ pheatmap(t(as.matrix(d)), # table is transposed to have gene names on the right-
 	color = c("grey","cyan"),
 	border_color = "black",
 	show_rownames = T,
-	show_colnames = F,
+	show_colnames = F, # change to T for displaying column names
+	#fontsize_col = 4, # uncomment to set up font size for column names
 	legend = F,
 	cellwidth = 5
 )
